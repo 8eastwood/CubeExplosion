@@ -1,0 +1,2 @@
+# CubeExplosion
+ iJunior task
